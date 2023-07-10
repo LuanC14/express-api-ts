@@ -1,0 +1,104 @@
+2023-07-10 01:08:40:840 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 01:11:20:1120 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 01:11:20:1120 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 01:12:11:1211 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 01:12:11:1211 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 01:13:02:132 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 01:13:02:132 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 01:13:22:1322 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-07-10 01:13:30:1330 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 01:13:30:1330 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 01:15:10:1510 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 01:15:10:1510 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 11:48:45:4845 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 11:48:45:4845 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 11:48:48:4848 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 11:48:48:4848 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 11:56:09:569 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 11:56:09:569 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 11:56:22:5622 - [35mhttp[39m: [35mGET /test 404 - - 3.491 ms[39m
+[35m[39m
+2023-07-10 11:57:56:5756 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 11:57:56:5756 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:03:07:37 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:03:07:37 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:03:15:315 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:03:15:315 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:08:33:833 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:08:33:833 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:08:44:844 - [35mhttp[39m: [35mGET /movies 404 - - 4.011 ms[39m
+[35m[39m
+2023-07-10 12:09:00:90 - [35mhttp[39m: [35mGET /api/movies 404 - - 1.057 ms[39m
+[35m[39m
+2023-07-10 12:09:40:940 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:09:40:940 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:09:59:959 - [35mhttp[39m: [35mGET /api/movies 200 - - 3.219 ms[39m
+[35m[39m
+2023-07-10 12:09:59:959 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:09:59:959 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:10:24:1024 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:10:24:1024 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:10:25:1025 - [35mhttp[39m: [35mGET /api/movies 200 - - 5.045 ms[39m
+[35m[39m
+2023-07-10 12:13:53:1353 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:13:53:1353 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:14:05:145 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:14:05:145 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:14:08:148 - [35mhttp[39m: [35mGET /api/movies 200 - - 3.195 ms[39m
+[35m[39m
+2023-07-10 12:19:59:1959 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:19:59:1959 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:20:57:2057 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:20:57:2057 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:21:02:212 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:21:02:212 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:23:26:2326 - [35mhttp[39m: [35mPOST /api/movies 404 - - 3.534 ms[39m
+[35m[39m
+2023-07-10 12:23:51:2351 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:23:51:2351 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:23:52:2352 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 12:24:15:2415 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 12:25:36:2536 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:25:36:2536 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:25:41:2541 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:25:41:2541 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:25:53:2553 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 12:25:53:2553 - [35mhttp[39m: [35mPOST /api/movies 201 - - 15.682 ms[39m
+[35m[39m
+2023-07-10 12:26:10:2610 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:26:10:2610 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:26:11:2611 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 12:26:11:2611 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 12:26:25:2625 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 12:36:11:3611 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 12:36:11:3611 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 12:37:15:3715 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 12:37:15:3715 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 12:39:21:3921 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 12:39:26:3926 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 12:39:26:3926 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 12:39:27:3927 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 13:07:30:730 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 13:07:31:731 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 13:08:56:856 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 13:08:56:856 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 13:09:01:91 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 13:09:01:91 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 13:09:50:950 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 13:09:50:950 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 13:11:01:111 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 13:11:01:111 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 13:11:45:1145 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 13:11:45:1145 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 13:17:21:1721 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 13:17:21:1721 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 13:17:33:1733 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 13:22:21:2221 - [37mdebug[39m: [37m{ title: 'O vento levou' }[39m
+2023-07-10 13:22:21:2221 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 13:22:28:2228 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
