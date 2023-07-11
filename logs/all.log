@@ -102,3 +102,290 @@
 2023-07-10 13:22:21:2221 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
 2023-07-10 13:22:28:2228 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
 [35m[39m
+2023-07-10 16:12:23:1223 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:12:23:1223 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:13:10:1310 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:13:10:1310 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:16:51:1651 - [35mhttp[39m: [35mPOST /api/movies 201 - - 12.975 ms[39m
+[35m[39m
+2023-07-10 16:17:31:1731 - [35mhttp[39m: [35mPOST /api/movies 201 - - 13.934 ms[39m
+[35m[39m
+2023-07-10 16:17:44:1744 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:17:44:1744 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:18:08:188 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:18:08:188 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:18:08:188 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:18:25:1825 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:18:25:1825 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:19:04:194 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 16:19:13:1913 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:19:13:1913 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:19:30:1930 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:19:30:1930 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:19:32:1932 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:19:32:1932 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:19:41:1941 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 16:20:16:2016 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:20:16:2016 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:20:28:2028 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 16:26:32:2632 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:26:32:2632 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:26:42:2642 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:26:42:2642 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:26:49:2649 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 16:32:07:327 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-07-10 16:36:34:3634 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:36:34:3634 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:38:30:3830 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:38:30:3830 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:38:41:3841 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 16:39:41:3941 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:39:41:3941 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:39:43:3943 - [31merror[39m: [31muser is not allowed to do action [insert] on [test_api_express.movies][39m
+2023-07-10 16:39:43:3943 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test_api_express.movies][31m[39m
+2023-07-10 16:43:14:4314 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:43:14:4314 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:43:16:4316 - [31merror[39m: [31muser is not allowed to do action [insert] on [test_api_express.movies][39m
+2023-07-10 16:43:16:4316 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test_api_express.movies][31m[39m
+2023-07-10 16:43:24:4324 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 16:48:09:489 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 16:48:09:489 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 16:48:25:4825 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 16:48:25:4825 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 16:48:25:4825 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 16:48:26:4826 - [31merror[39m: [31muser is not allowed to do action [insert] on [test_api_express.movies][39m
+2023-07-10 16:48:26:4826 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test_api_express.movies][31m[39m
+2023-07-10 17:30:28:3028 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 17:30:28:3028 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 17:31:04:314 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 17:31:04:314 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 17:31:08:318 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 17:31:08:318 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 17:31:43:3143 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 17:31:43:3143 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 17:32:07:327 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 17:32:07:327 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 17:32:11:3211 - [35mhttp[39m: [35mPOST /api/movies 201 - - 14.615 ms[39m
+[35m[39m
+2023-07-10 17:32:32:3232 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 17:32:32:3232 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 17:32:33:3233 - [31merror[39m: [31muser is not allowed to do action [insert] on [demo.movies][39m
+2023-07-10 17:32:33:3233 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [demo.movies][31m[39m
+2023-07-10 17:36:26:3626 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 17:36:31:3631 - [35mhttp[39m: [35mPOST /api/movies 201 - - 266.236 ms[39m
+[35m[39m
+2023-07-10 17:44:18:4418 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 17:44:18:4418 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 19:03:44:344 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 19:03:44:344 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 19:03:51:351 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 19:03:51:351 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 19:05:01:51 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 19:05:01:51 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 19:15:09:159 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 19:15:09:159 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 22:50:47:5047 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 22:50:47:5047 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:00:51:051 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:00:51:051 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:03:04:34 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:04:28:428 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:04:28:428 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:05:28:528 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:06:37:637 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:06:37:637 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:08:14:814 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:08:29:829 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:09:21:921 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:09:22:922 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:09:22:922 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:09:22:922 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:09:49:949 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:09:51:951 - [35mhttp[39m: [35mPOST /api/movies 201 - - 178.571 ms[39m
+[35m[39m
+2023-07-10 23:10:49:1049 - [35mhttp[39m: [35mPOST /api/movies 201 - - 140.019 ms[39m
+[35m[39m
+2023-07-10 23:10:54:1054 - [35mhttp[39m: [35mPOST /api/movies 201 - - 138.755 ms[39m
+[35m[39m
+2023-07-10 23:10:59:1059 - [35mhttp[39m: [35mPOST /api/movies 201 - - 138.917 ms[39m
+[35m[39m
+2023-07-10 23:11:25:1125 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:11:25:1125 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:11:35:1135 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:14:09:149 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:14:09:149 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:14:42:1442 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:18:17:1817 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-07-10 23:20:02:202 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:20:02:202 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:20:51:2051 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:20:51:2051 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:21:39:2139 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:21:45:2145 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:21:45:2145 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:21:51:2151 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:21:54:2154 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:21:54:2154 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:21:56:2156 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:22:08:228 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:22:08:228 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:22:42:2242 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:22:42:2242 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:22:45:2245 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:24:15:2415 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:24:15:2415 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:24:24:2424 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:24:24:2424 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:25:03:253 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:25:03:253 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:25:07:257 - [35mhttp[39m: [35mPOST /api/movies 201 - - 198.270 ms[39m
+[35m[39m
+2023-07-10 23:25:15:2515 - [35mhttp[39m: [35mPOST /api/movies 201 - - 142.308 ms[39m
+[35m[39m
+2023-07-10 23:27:26:2726 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:27:26:2726 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:28:21:2821 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:28:21:2821 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:28:24:2824 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:28:36:2836 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:28:36:2836 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:28:38:2838 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:30:23:3023 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:30:24:3024 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:30:31:3031 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:30:31:3031 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:30:48:3048 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:31:01:311 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:31:01:311 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:31:11:3111 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:31:42:3142 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:31:42:3142 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:31:45:3145 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:31:45:3145 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:31:45:3145 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:32:16:3216 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:32:16:3216 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:32:17:3217 - [35mhttp[39m: [35mPOST /api/movies 201 - - 2195.307 ms[39m
+[35m[39m
+2023-07-10 23:34:54:3454 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:34:54:3454 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:34:56:3456 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:35:08:358 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:35:25:3525 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:35:25:3525 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:36:02:362 - [35mhttp[39m: [35mPOST /api/movies - - - - ms[39m
+[35m[39m
+2023-07-10 23:37:18:3718 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:37:18:3718 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-10 23:58:34:5834 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-10 23:58:34:5834 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:19:28:1928 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:19:28:1928 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:19:42:1942 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:19:42:1942 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:23:09:239 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:23:09:239 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:23:39:2339 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:23:39:2339 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:24:03:243 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:24:03:243 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:24:27:2427 - [35mhttp[39m: [35mGET /api/movies/64acb9efd17e9e422a065a74 200 - - 176.259 ms[39m
+[35m[39m
+2023-07-11 00:27:00:270 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:27:00:270 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:27:11:2711 - [35mhttp[39m: [35mGET /api/movies 404 - - 4.725 ms[39m
+[35m[39m
+2023-07-11 00:27:23:2723 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:27:23:2723 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:27:40:2740 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:27:40:2740 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:27:40:2740 - [35mhttp[39m: [35mGET /api/movies 200 - - 2390.752 ms[39m
+[35m[39m
+2023-07-11 00:27:55:2755 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:27:55:2755 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:35:34:3534 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:35:34:3534 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:35:53:3553 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:35:53:3553 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:35:59:3559 - [35mhttp[39m: [35mDELETE /api/movies/64acb9efd17e9e422a065a74 200 - - 292.209 ms[39m
+[35m[39m
+2023-07-11 00:36:01:361 - [31merror[39m: [31mFilme não encontrado[39m
+2023-07-11 00:36:01:361 - [35mhttp[39m: [35mDELETE /api/movies/64acb9efd17e9e422a065a74 404 - - 133.940 ms[39m
+[35m[39m
+2023-07-11 00:36:20:3620 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:36:20:3620 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:36:55:3655 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:36:55:3655 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:39:02:392 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:39:02:392 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:39:07:397 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:39:07:397 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:39:16:3916 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:39:16:3916 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:42:25:4225 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:42:25:4225 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:42:37:4237 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:42:37:4237 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:42:49:4249 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:42:49:4249 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:42:54:4254 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:42:54:4254 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:47:10:4710 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:47:10:4710 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:47:11:4711 - [35mhttp[39m: [35mPOST /api/movies 201 - - 202.186 ms[39m
+[35m[39m
+2023-07-11 00:47:31:4731 - [35mhttp[39m: [35mPOST /api/movies 422 - - 92.431 ms[39m
+[35m[39m
+2023-07-11 00:47:32:4732 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:47:32:4732 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 00:48:07:487 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 00:48:07:487 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 01:33:28:3328 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 01:33:28:3328 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 01:34:05:345 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 01:34:05:345 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 01:34:06:346 - [35mhttp[39m: [35mGET /api/movies 200 - - 164.222 ms[39m
+[35m[39m
+2023-07-11 01:34:56:3456 - [35mhttp[39m: [35mPATCH /api/movies/64ac6bcff96b800d7a10cb9b 404 - - 4.763 ms[39m
+[35m[39m
+2023-07-11 01:35:11:3511 - [35mhttp[39m: [35mPATCH /api/movies/64ac6bcff96b800d7a10cb9b 422 - - 75.911 ms[39m
+[35m[39m
+2023-07-11 01:35:12:3512 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 01:35:12:3512 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 01:36:23:3623 - [35mhttp[39m: [35mPATCH /api/movies/64acd0bfa80642a17b8539fe 422 - - 31.387 ms[39m
+[35m[39m
+2023-07-11 01:36:51:3651 - [35mhttp[39m: [35mPATCH /api/movies/64acd0bfa80642a17b8539fe 200 - - 312.124 ms[39m
+[35m[39m
+2023-07-11 01:37:16:3716 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 01:37:16:3716 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 01:37:22:3722 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 01:37:22:3722 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 01:38:20:3820 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 01:38:20:3820 - [32minfo[39m: [32mHTTP server is running on port 3000[39m
+2023-07-11 01:38:58:3858 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-07-11 01:38:58:3858 - [32minfo[39m: [32mHTTP server is running on port 3000[39m

@@ -7,11 +7,11 @@ const movieSchema = new Schema(
     description: { Type: String },
     director: { type: String },
     stars: { type: Array },
-    poster: { type: String },
+    poster: { type: String }
   },
   {
     timestamps: true,
   }
 );
 
-export const MovielModel = model("Movie", movieSchema);
+export const MovielModel = model("movie", movieSchema);

@@ -7,3 +7,38 @@
 2023-07-10 13:09:01:91 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
 2023-07-10 13:17:21:1721 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
 2023-07-10 13:22:21:2221 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:18:08:188 - [31merror[39m: [31mErro no Sistema user is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:19:04:194 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 16:19:32:1932 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:19:32:1932 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:20:16:2016 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:20:16:2016 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:26:42:2642 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:26:42:2642 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:32:07:327 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-07-10 16:38:30:3830 - [31merror[39m: [31muser is not allowed to do action [insert] on [test.movies][39m
+2023-07-10 16:38:30:3830 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test.movies][31m[39m
+2023-07-10 16:39:43:3943 - [31merror[39m: [31muser is not allowed to do action [insert] on [test_api_express.movies][39m
+2023-07-10 16:39:43:3943 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test_api_express.movies][31m[39m
+2023-07-10 16:43:16:4316 - [31merror[39m: [31muser is not allowed to do action [insert] on [test_api_express.movies][39m
+2023-07-10 16:43:16:4316 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test_api_express.movies][31m[39m
+2023-07-10 16:48:09:489 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 16:48:09:489 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 16:48:26:4826 - [31merror[39m: [31muser is not allowed to do action [insert] on [test_api_express.movies][39m
+2023-07-10 16:48:26:4826 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [test_api_express.movies][31m[39m
+2023-07-10 17:32:33:3233 - [31merror[39m: [31muser is not allowed to do action [insert] on [demo.movies][39m
+2023-07-10 17:32:33:3233 - [31merror[39m: [31m[31muser is not allowed to do action [insert] on [demo.movies][31m[39m
+2023-07-10 23:09:21:921 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:09:22:922 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:18:17:1817 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-07-10 23:21:45:2145 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:21:45:2145 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:21:54:2154 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:21:54:2154 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:28:21:2821 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:28:21:2821 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:28:36:2836 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:28:36:2836 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-10 23:31:42:3142 - [31merror[39m: [31mOperation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-07-10 23:31:42:3142 - [31merror[39m: [31m[31mOperation `movies.insertOne()` buffering timed out after 10000ms[31m[39m
+2023-07-11 00:36:01:361 - [31merror[39m: [31mFilme não encontrado[39m
